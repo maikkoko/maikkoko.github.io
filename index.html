@@ -1,0 +1,24 @@
+---
+layout: default
+title: Maikko Aleman
+---
+
+{% include site-title.html %}
+
+
+<section class="posts-list">
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li>
+        <p class="post-date">{{ post.date | date_to_string }}</p>
+        <h1 class="post-title header-1">
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </h1>
+        <div class="post-excerpt">
+          {{ post.excerpt }}
+        </div>
+        <div class="border-bottom"></div>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
