@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "This is the new blog"
-subtitle:
-date:   2016-03-24 09:11:03
+title: This is the new blog
+subtitle: null
+date: {}
 category: snippets
+published: true
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet leo id ligula mattis aliquet sit amet id ipsum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque sed massa sagittis, consequat turpis eleifend, commodo sapien. Vivamus pellentesque ac purus in hendrerit. Pellentesque tempor odio eget sapien accumsan, id porta justo tincidunt. Aenean eget mauris diam. Praesent iaculis lacus in arcu gravida scelerisque. Nulla elementum, diam feugiat euismod faucibus, dolor lorem vehicula dui, ut euismod urna felis vel urna. Mauris at neque gravida, pellentesque diam eget, porttitor orci. Aenean auctor quam libero, eu vehicula arcu accumsan nec.
