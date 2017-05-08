@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lorem Markdown"
-date:   2017-02-01 13:56:00 +0800
+date:   2017-02-01 13:56:00
 category: Sample Tag
 tags: markdown lorem sample
 ---
