@@ -2,7 +2,7 @@
 layout: post
 title: This is the new blog
 subtitle: null
-date: {}
+date: 2016-03-20 09:11:03
 category: snippets
 published: true
 ---
